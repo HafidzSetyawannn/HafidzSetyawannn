@@ -2,7 +2,7 @@
 
 ![Hafidz](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV2MDlhenJzcWJ4cTFrMzhzaWx2MGE0Z3Vjc3RoNGhmMmJ2ZWRqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hiFrkuBweqx9i8aIc7/giphy.gif)
 
-<!--
+
 **HafidzSetyawannn/HafidzSetyawannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
