@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hafidzsetyawannn&label=Profile%20views&color=0e75b6&style=flat" alt="hafidzsetyawannn" /> </p>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczM3I4ZnJjemYwNGV6OGUxczF5dGI3NzA0Z2lqYmF4OWxnbXlzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif"  height="200px">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczM3I4ZnJjemYwNGV6OGUxczF5dGI3NzA0Z2lqYmF4OWxnbXlzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif"  height="190px">
 
 - 🔭 I’m currently working on [Sistem Informasi Reservasi Sport Center](https://github.com/maingga/si-reservasi-sport-center)
 
