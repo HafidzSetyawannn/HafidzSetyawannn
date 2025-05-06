@@ -1,7 +1,5 @@
 <h1 align="center">Hello World, My name is Muhammad Hafidz Setyawan and I'm a Frontend Developer, from Gresik, East Java</h1>
 
-##
-
 <h3 align="left">About Me</h3>
 
 - 🎂 Date of Birth : **June 08, 2003**
@@ -13,8 +11,6 @@
 - ⚡ Fun fact **I liked Music🎧**
 
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdzdjNzendhYnA4eDFtb2M3cm02cG45bGR0cm03bDZrcG9sZG5uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/542yTSblpyhWg/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
