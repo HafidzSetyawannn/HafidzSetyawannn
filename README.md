@@ -30,4 +30,7 @@
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
-|<img height="100%" src="https://github-readme-stats.vercel.app/api?username=hafidzsetyawannn&show_icons=true&locale=en" alt="hafidzsetyawannn" />|<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafidzsetyawannn&show_icons=true&locale=en&layout=compact" alt="hafidzsetyawannn" />|
+|<img src="https://github-readme-stats.vercel.app/api?username=HafidzSetyawannn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=%20%20" height="150" alt="stats graph"  />|<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HafidzSetyawannn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />|
+
+
+
