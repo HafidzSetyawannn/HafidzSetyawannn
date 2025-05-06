@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hafidzsetyawannn&label=Profile%20views&color=0e75b6&style=flat" alt="hafidzsetyawannn" /> </p>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUwcDRydGl2NjV0ejV4OTBpM3h6b3pieWQ5cTk5YmE0Yzk5d3dzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/542yTSblpyhWg/giphy.gif"  height="250px">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUwcDRydGl2NjV0ejV4OTBpM3h6b3pieWQ5cTk5YmE0Yzk5d3dzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/542yTSblpyhWg/giphy.gif"  height="240px">
 
 <h3 align="left">About Me</h3>
 
