@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, My name is Muhammad Hafidz Setyawan and I'm a Frontend Developer, from Gresik, East Java</h1>
+<h1 align="center">Hello World, My name is Muhammad Hafidz Setyawan and I'm a Frontend Developer, from Gresik.</h1>
 
 <img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdzdjNzendhYnA4eDFtb2M3cm02cG45bGR0cm03bDZrcG9sZG5uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/542yTSblpyhWg/giphy.gif"  />
 
@@ -13,7 +13,6 @@
 - ⚡ Fun fact **I liked Music🎧**
 
 ##
-
 
 <h3 align="left">Tech Stack</h3>
 <div align="left">
@@ -30,7 +29,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
 </div>
+
 
 ###
 <h3 align="left">Social Media</h3>
