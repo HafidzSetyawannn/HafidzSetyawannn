@@ -1,13 +1,13 @@
 # Hello World! I'm Muhammad Hafidz Setyawan 👋
 
-![Hafidz](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV2MDlhenJzcWJ4cTFrMzhzaWx2MGE0Z3Vjc3RoNGhmMmJ2ZWRqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hiFrkuBweqx9i8aIc7/giphy.gif)
+![Hafidz](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczM3I4ZnJjemYwNGV6OGUxczF5dGI3NzA0Z2lqYmF4OWxnbXlzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif)
 
 
 **HafidzSetyawannn/HafidzSetyawannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently study on POLINEMA
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
