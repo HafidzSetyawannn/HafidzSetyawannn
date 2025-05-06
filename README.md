@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I liked Music🎧**
 
 ##
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdzdjNzendhYnA4eDFtb2M3cm02cG45bGR0cm03bDZrcG9sZG5uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/542yTSblpyhWg/giphy.gif"  />
+<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdzdjNzendhYnA4eDFtb2M3cm02cG45bGR0cm03bDZrcG9sZG5uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/542yTSblpyhWg/giphy.gif"  />
 
 <h3 align="left">Tech Stack</h3>
 <div align="left">
