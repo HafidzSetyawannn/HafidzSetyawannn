@@ -1,6 +1,6 @@
 # Hello World! I'm Muhammad Hafidz Setyawan 👋
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczM3I4ZnJjemYwNGV6OGUxczF5dGI3NzA0Z2lqYmF4OWxnbXlzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif" width="100%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczM3I4ZnJjemYwNGV6OGUxczF5dGI3NzA0Z2lqYmF4OWxnbXlzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif" width="100%" height="200px">
 
 Here are some ideas to get you started:
 
