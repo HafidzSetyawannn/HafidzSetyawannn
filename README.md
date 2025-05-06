@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Muhammad Hafidz Setyawan</h1>
-<h3 align="center">" I'm a passionate Frontend Developer based in Gresik, East Java, Indonesia, with a strong interest in creating user friendly, responsive, and accessible web interfaces using modern technologies."</h3>
+<p align="center">I'm a passionate Frontend Developer based in Gresik, East Java, Indonesia, with a strong interest in creating user friendly, responsive, and accessible web interfaces using modern technologies.</p>
 
 ##
 
