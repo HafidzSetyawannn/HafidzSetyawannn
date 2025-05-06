@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Muhammad Hafidz Setyawan</h1>
-<h3 align="center">" I'm a passionate Frontend Developer based in Gresik, East Java, Indonesia, with a strong interest in creating user-friendly, responsive, and accessible web interfaces using modern technologies."</h3>
+<h3 align="center">" I'm a passionate Frontend Developer based in Gresik, East Java, Indonesia, with a strong interest in creating user friendly, responsive, and accessible web interfaces using modern technologies."</h3>
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUwcDRydGl2NjV0ejV4OTBpM3h6b3pieWQ5cTk5YmE0Yzk5d3dzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/542yTSblpyhWg/giphy.gif"  height="240px">
 
@@ -23,8 +23,9 @@
 
 <h3 align="left">Statistics</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hafidzsetyawannn&label=Profile%20views&color=0e75b6&style=flat" alt="hafidzsetyawannn" /> </p>
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HafidzSetyawannn/count.svg?"  />
+</div>
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
