@@ -1,9 +1,9 @@
 <h1 align="center">Hello World, I'm Muhammad Hafidz Setyawan</h1>
-<p align="center">I'm a passionate Frontend Developer based in Gresik, East Java, Indonesia, with a strong interest in creating user friendly, responsive, and accessible web interfaces using modern technologies.</p>
+<h3 align="center">I'm a passionate Frontend Developer based in Gresik, East Java, Indonesia, with a strong interest in creating user friendly, responsive, and accessible web interfaces using modern technologies.</h3>
 
 ##
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUwcDRydGl2NjV0ejV4OTBpM3h6b3pieWQ5cTk5YmE0Yzk5d3dzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/542yTSblpyhWg/giphy.gif"  height="240px">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUwcDRydGl2NjV0ejV4OTBpM3h6b3pieWQ5cTk5YmE0Yzk5d3dzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/542yTSblpyhWg/giphy.gif"  height="230px">
 
 <h3 align="left">About Me</h3>
 
