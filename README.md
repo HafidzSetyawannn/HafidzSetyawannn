@@ -1,9 +1,8 @@
 # Hello World! I'm Muhammad Hafidz Setyawan 👋
 
-![Hafidz](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczM3I4ZnJjemYwNGV6OGUxczF5dGI3NzA0Z2lqYmF4OWxnbXlzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif)
-
-
 **HafidzSetyawannn/HafidzSetyawannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Hafidz](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczM3I4ZnJjemYwNGV6OGUxczF5dGI3NzA0Z2lqYmF4OWxnbXlzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif)
 
 Here are some ideas to get you started:
 
