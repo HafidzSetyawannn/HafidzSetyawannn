@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, My name is Muhammad Hafidz Setyawan and I'm a Frontend Developer, from Gresik.</h1>
+<h1 align="center">Hi👋, My name is Muhammad Hafidz Setyawan and I'm a Frontend Developer.</h1>
 
 <img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdzdjNzendhYnA4eDFtb2M3cm02cG45bGR0cm03bDZrcG9sZG5uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/542yTSblpyhWg/giphy.gif"  />
 
