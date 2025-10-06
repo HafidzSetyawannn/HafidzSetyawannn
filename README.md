@@ -10,7 +10,6 @@
 - 🧠 Currently learning : **Next.js & React.js**
 - 📫 How to reach me : [setyawannnhafidz@gmail.com](mailto:setyawannnhafidz@gmail.com)
 - 🌐 Languages : **Bahasa Indonesia**, **English**
-- ⚡ Fun fact **I liked Music🎧**
 
 ##
 
