@@ -4,12 +4,12 @@
 
 <h3 align="left">About Me</h3>
 
-- 🎂 Date of Birth : **June 08, 2003**
-- 🏠 Place of Birth : **Bekasi, West Java, Indonesia**
-- 🎓 Background : **Informatics Engineering Student**
-- 🧠 Currently learning : **Next.js & React.js**
-- 📫 How to reach me : [setyawannnhafidz@gmail.com](mailto:setyawannnhafidz@gmail.com)
-- 🌐 Languages : **Bahasa Indonesia**, **English**
+- Background      : Informatics Engineering
+- Current Study   : Master's Degree in Applied Information Technology Engineering
+- Focus           : Web Development, Android Development, Machine Learning
+- Currently Learn : Python, System Architecture
+- Languages       : **Bahasa Indonesia**, **English**
+- Contact         : [setyawanhafidz@gmail.com](mailto:setyawanhafidz@gmail.com)
 
 ##
 
